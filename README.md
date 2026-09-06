@@ -1,7 +1,13 @@
 # iWork Converter
 
-Pages / Numbers / Keynote の書類を Windows 上で Office 形式に変換するデスクトップアプリです。
+実行ファイルのダウンロード.
+https://github.com/k518-2026/IWorkConverter/releases
 
+## 注意！
+- 書式まで含めて完全に移行したい場合は、iWork 側の「書き出し」機能で Office 形式にするのが
+確実です。本アプリは **Mac が手元にない環境で中身を取り出す** ことを目的としています。
+
+Pages / Numbers / Keynote の書類を Windows 上で Office 形式に変換するデスクトップアプリです。
 | 入力 | 出力 |
 |---|---|
 | `.pages` | `.docx` |
